@@ -65,7 +65,7 @@ knitr::kable(estimates, escape = FALSE, caption = "Coverage differences")
 
 
 
-##### Problem 3 - solutions_workshop_3
+##### Problem 3 
 load("/Users/houhuantong/Edinburgh/S2/IDA/Assignment/dataex3.Rdata")
 require(maxLik)
 ## Define log likelihood function
